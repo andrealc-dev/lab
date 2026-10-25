@@ -14,5 +14,6 @@
   "testEnvUrl": "https://wm-test-1874.crm.dynamics.com",
   "testEnvId": "026725ea-e596-ed83-a74d-69e9749b891b",
   "testOrgId": "bd976819-97d0-f111-be87-000d3a5cb407",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appId": "5eb102ed-40d9-416e-aae4-509c1651673c"
 }
