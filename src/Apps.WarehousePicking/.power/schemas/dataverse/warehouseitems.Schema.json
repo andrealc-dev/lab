@@ -130,7 +130,7 @@
             null,
             null
           ],
-          "x-ms-optionsetmetadataid": "255a7788-f986-471f-b194-8575ff3dff41",
+          "x-ms-optionsetmetadataid": "4a9bf5e9-b2ad-43c6-acf3-173c7a1b1c47",
           "x-ms-isGlobal": false,
           "x-ms-optionsetdisplayname": "Category",
           "x-ms-optionSetType": "Picklist"
@@ -412,7 +412,7 @@
             null,
             null
           ],
-          "x-ms-optionsetmetadataid": "d1b8c541-fb51-42c8-b7ba-b4702a392af4",
+          "x-ms-optionsetmetadataid": "f6b1128c-103e-41ef-bb62-781b41c20e0a",
           "x-ms-isGlobal": false,
           "x-ms-optionsetdisplayname": "Status",
           "x-ms-optionSetType": "State"
@@ -443,7 +443,7 @@
             null,
             null
           ],
-          "x-ms-optionsetmetadataid": "3fe585bf-c566-4497-af7f-7c5759be4e0d",
+          "x-ms-optionsetmetadataid": "bc4966dc-81c6-449b-9aad-2d7fe4e8e775",
           "x-ms-isGlobal": false,
           "x-ms-optionsetdisplayname": "Status Reason",
           "x-ms-optionSetType": "Status"
